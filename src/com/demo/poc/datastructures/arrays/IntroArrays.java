@@ -1,4 +1,4 @@
-package com.demo.poc.collections.arrays;
+package com.demo.poc.datastructures.arrays;
 
 /**
  * Los arreglos (arrays) son estructuras de datos que permiten almacenar múltiples elementos.

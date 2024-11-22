@@ -1,4 +1,4 @@
-package com.demo.poc.collections.lists;
+package com.demo.poc.datastructures.lists;
 
 import java.util.ArrayList;
 import java.util.Arrays;

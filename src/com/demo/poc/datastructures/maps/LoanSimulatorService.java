@@ -1,4 +1,4 @@
-package com.demo.poc.collections.maps;
+package com.demo.poc.datastructures.maps;
 
 import java.util.HashMap;
 import java.util.Map;
